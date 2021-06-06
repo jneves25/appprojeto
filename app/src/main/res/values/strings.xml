@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+
+    <!-- Fragmento -->
+    <string name="cadastro_name_hint">Cadastro\'s name</string>
+    <string name="cadastro_email_hint">Email</string>
+    <string name="cadastro_button">Add</string>
+    <string name="cadastro_title">Cadastro</string>
+    <string name="cadastro_inserted_successfully">Cadastro was successfully inserted</string>
+    <string name="cadastro_error_to_insert">There was an error when inserting Cadastro </string>
+
+</resources>
